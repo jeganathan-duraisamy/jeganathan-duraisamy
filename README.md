@@ -76,12 +76,4 @@ I build end-to-end data pipelines and analytical systems using modern cloud and 
 
 ---
 
-## 📊 GitHub Stats
-
-![Jeganathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeganathan-duraisamy&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeganathan-duraisamy&layout=compact&theme=default&hide_border=true)
-
----
-
 *Open to Data Engineer and Data Analyst roles in the UK - Available immediately.*
