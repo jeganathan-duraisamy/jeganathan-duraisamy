@@ -6,9 +6,9 @@ I build end-to-end data pipelines and analytical systems using modern cloud and 
 
 -  Currently building: **Azure End-to-End Data Engineering Project** - Azure Data Factory, Databricks, PySpark streaming pipeline 
 -  MSc Data Science - University of Surrey 
-- 🌍 Based in Guildford, Surrey, UK - open to UK-wide opportunities
-- 📫 Reach me: **jegann9843@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/jegan-d-a57a80236](https://linkedin.com/in/jegan-d-a57a80236)
+-  Based in Guildford, Surrey, UK - open to UK-wide opportunities
+-  Reach me: **jegann9843@gmail.com**
+-  LinkedIn: [linkedin.com/in/jegan-d-a57a80236](https://linkedin.com/in/jegan-d-a57a80236)
 
 ---
 
