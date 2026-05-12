@@ -2,7 +2,7 @@
 
 ### Data Engineer | MSc Data Science | University of Surrey | UK
 
-I build end-to-end data pipelines and analytical systems using modern cloud and data engineering tools. Currently seeking Data Engineer roles in the UK.
+I build end-to-end data pipelines and analytical systems using modern cloud and data engineering tools. I love learning and continuously improving my skills to stay up-to-date with the latest in the field. Currently seeking Data Engineer roles in the UK
 
 -  Currently building: **Azure End-to-End Data Engineering Project** - Azure Data Factory, Databricks, PySpark streaming pipeline 
 -  MSc Data Science - University of Surrey 
