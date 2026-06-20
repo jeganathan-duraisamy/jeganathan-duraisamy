@@ -68,7 +68,7 @@ I build end-to-end data pipelines and analytical systems using modern cloud and 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🏠 UK Property Lakehouse](https://github.com/jeganathan-duraisamy/Uk-property-lakehouse) | End-to-end medallion architecture - Bronze → Silver → Gold. Autoloader ingestion, DLT streaming, SCD Type 2, star schema | Databricks, PySpark, Delta Lake, Unity Catalog |
+| [🏠 UK Flight Booking Lakehouse](https://github.com/jeganathan-duraisamy/UK-Flight-Booking-Lakehouse) | End-to-end medallion architecture - Bronze → Silver → Gold. Autoloader ingestion, DLT streaming, SCD Type 2, star schema | Databricks, PySpark, Delta Lake, Unity Catalog |
 | [📈 Monte Carlo Cloud Simulation](https://github.com/jeganathan-duraisamy/monte-carlo-cloud-simulation) | Hybrid cloud platform for stock market VaR analysis. AWS Lambda + EC2 + Google App Engine. NIST SP 800-145 compliant | AWS, GCP, Flask, Python |
 | [🔍 Fraud Risk Detection](https://github.com/jeganathan-duraisamy/fraud-risk-detection) | Production ML pipeline on 6.3M+ transactions. PR-AUC: 0.999. Leakage-controlled, explainable | Python, Scikit-learn, Random Forest |
 | [🧠 NLP NER Classification](https://github.com/jeganathan-duraisamy/nlp-ner-classification) | NER & POS tagging experiments - SVM vs RNN, TF-IDF vs Count Vectorization. GRU deployment via Flask + CI/CD | TensorFlow, Flask, GitLab CI |
